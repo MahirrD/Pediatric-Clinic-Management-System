@@ -41,14 +41,6 @@ The **Pediatrics Clinic Hospital Management System (HMS)** streamlines daily cli
 
 ---
 
-## 🚀 Getting Started
-
-1. **Download the Project:** Clone or download all project files into a single folder.
-2. **Keep Data Files Together:** Ensure all `.txt` and `.csv` data files remain in the exact same directory as `cse115 project_final version.c`.
-3. **Compile & Run:** Open `cse115 project_final version.c` in your preferred C IDE (Code::Blocks, VS Code, or Dev-C++), build, and execute.
-
----
-
 ## 🔐 Default Login Credentials
 
 | Portal | Username / ID | Password |
@@ -58,12 +50,3 @@ The **Pediatrics Clinic Hospital Management System (HMS)** streamlines daily cli
 | **Staff Portal** | `001` *(or any valid staff ID)* | `S` *(matches staff profile)* |
 | **Patient Portal** | `001` *(or register a new account)* | `1234` |
 
----
-
-## 👥 Contributors
-
-| Name | Role & Module |
-| :--- | :--- |
-| **Mahir Daiyan** | Staff Management Portal & Staff Portal |
-| **Sawom** | Patient Portal & Appointment System |
-| **Zahra** | Billing & Payment Portal |
