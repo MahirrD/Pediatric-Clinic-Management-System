@@ -566,7 +566,6 @@ void delete_staff(void)
     rename("temp.csv", "records.csv");
 }
 
-// mahir
 void staff_portal(void)
 {
     printf("=== Staff Portal ===\n");
@@ -710,7 +709,6 @@ void staff_profile(int id)
 
 }
 
-// sawom
 // PATIENT PORTAL starts here...
 void patient_portal(void)
 {
@@ -1567,7 +1565,6 @@ void view_bill_patient(char currentPatientID[])
     }
 }
 
-// zahra
 void billing_portal(void)
 {
     char username[20];
